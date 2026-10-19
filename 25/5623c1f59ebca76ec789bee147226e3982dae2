@@ -1,0 +1,25 @@
+authentik/sources/scim/views/v2/groups.py
+  s_80affbbea01266::t_f5a95cf70a0799 196,198,201
+  s_80affbbea01266::t_3aed6fcd7615aa 20
+  s_80affbbea01266::t_8d00e9c96d5826 3-4
+  s_80affbbea01266::t_b51bada78fda1e 159-195,197,199-200,202-212
+  s_80affbbea01266::t_8752e368e8c3c3 222-223,228-234
+authentik/sources/scim/tests/test_groups.py
+  s_80affbbea01266::t_80c690ffada50f 436-607
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "255623c1f59ebca76ec789bee147226e3982dae2",
+  "prompts": {},
+  "sessions": {
+    "s_80affbbea01266": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "65ef7bdb-55b6-49a9-be2d-bbda64a309a6",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Ulysse Boillot <ulysse@hodor.ai>"
+    }
+  }
+}
